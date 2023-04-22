@@ -2,7 +2,6 @@
   <main>
     <header>
       <img src="./assets/pinia.svg" alt="pinia logo" />
-      🍍
       <h1>Pinia Tasks</h1>
     </header>
 

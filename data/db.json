@@ -1,3 +1,19 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "title": "write some code",
+      "isFav": true,
+      "id": 2495
+    },
+    {
+      "title": "fix some bugs",
+      "isFav": false,
+      "id": 4162
+    },
+    {
+      "title": "do to the gym",
+      "isFav": true,
+      "id": 8093
+    }
+  ]
 }
